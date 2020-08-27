@@ -15,6 +15,7 @@ This is a project for the React interview QnA - the beginner series made by [Sar
 3. **Run the project** by typing ```yarn start```
 
   - This will open the project in a browser.
+  - What I have done is I have hit an external api called *JsonPlaceholder* that provides dummy data. The API gives me an array response, which I've captured in a state variable and I am looping through that response in the browser, as you can see when you run the project
 
 4. Open the project in your editor of choice. 
 
