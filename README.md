@@ -39,6 +39,6 @@ Now, here's the exercise for you.
 
 *You can attempt these optional exercises in any order as you see fit as they are independent of each other. Try it, it's not that hard really. Use the internet for help and remember, bugs will occur but researching internet for bugs and errors is probably the best skill you'll learn across the board as a computer engineer.*
 
-- I'll post this project as a public project on my github account, the link to which you will find in the lesson description. Inside the project, you'll also find a soltuion.js.. If you just copy everything inside solution.js and replase it with everything inside app.js, you'll have the solution to both the problems. But before you do that, I implore you to try and solve these on your own. 
+- I'll post this project as a public project on my github account, the link to which you will find in the lesson description. Inside the project, you'll also find a soltuion.js.. If you just copy everything inside solution.js and replace it with everything inside app.js, you'll have the solution to both the problems. But before you do that, I implore you to try and solve these on your own. 
 
 - And that's it from my side for right now. I'll see you in my next course. Good luck!
