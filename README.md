@@ -1,68 +1,27 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+This is a project for the React interview QnA - the beginner series made by [Sarthak Batra](www.srthk.com) for [Guvi](www.Guvi.in)
 
-In the project directory, you can run:
+For this activity and this course, we're assuming you have a basic understanding of Javascript, that is all, because, React essentially is a Javascript Library.  
 
-### `yarn start`
+This course does assume you have an installation of node. That is what is used to run the project. If not, you can go to [the NodeJs Website](www.nodejs.org) and grab the LTS release and then try the above steps again. 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+**Once the project is cloned and set up, navigate inside the project by typing ```cd SRTHK-ReactQnABeginnerProject```**
 
-### `yarn test`
+**Run the project by typing ```yarn start```**
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Open the project in your editor of choice. 
 
-### `yarn build`
+Now, here's the exercise for you. Make this display into an unordered list. Show me how to do that. 
+The second part of the exercise is, if you open the console, you'll see an error. During this course, we have learnt why we have that error. Find a way to resolve that error so that we don't see it anymore. 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+There are three optional exercises too, if you feel like attempting them. 
+The first is an actual error, which, while technically correct as per javascript, will come back to haunt you as the project gets bigger or complex. Find it and fix it. I'll give you a hint - it's how we declare state. 
+The second optional exercise is to make the component did mount an arrow function.  
+And the third optional exercise is to make the component did mount an arrow function. 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+You can attempt these optional exercises in any order as you see fit as they are independent of each other. Try it, it's not that hard really. Use the internet for help and remember, bugs will occur but researching internet for bugs and errors is probably the best skill you'll learn across the board as a computer engineer.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I'll post this project as a public project on my github account, the link to which you will find in the lesson description. Inside the project, you'll also find a soltuion.js.. If you just copy everything inside solution.js and replase it with everything inside app.js, you'll have the solution to both the problems. But before you do that, I implore you to try and solve these on your own. 
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+And that's it from my side for right now. I'll see you in my next course. Good luck!
