@@ -33,9 +33,9 @@ Now, here's the exercise for you.
 
 1. The first is an actual error, which, while technically correct as per javascript, will come back to haunt you as the project gets bigger or complex. Find it and fix it. *I'll give you a hint - it's how we declare state. *
 
-2. The second optional exercise is to make the component did mount an arrow function.  
+2. Make the componentDidMount an arrow function.  
 
-3. The third optional exercise is to make the component did mount an arrow function. 
+3. Convert componentDidMount into async/await. 
 
 *You can attempt these optional exercises in any order as you see fit as they are independent of each other. Try it, it's not that hard really. Use the internet for help and remember, bugs will occur but researching internet for bugs and errors is probably the best skill you'll learn across the board as a computer engineer.*
 
